@@ -1,6 +1,7 @@
-/Tuto_Image_CIFAR10/data/*
 /Tuto_Digit_Recognizer/Data/*
 /Tuto_Digit_Recognizer/graph.png
 /Tuto_Digit_Recognizer/.ipynb_checkpoints/*
 /Tuto_Image_CIFAR10/.ipynb_checkpoints/*
+/Tuto_Image_CIFAR10/data/*
+/Tuto_TransferLearning_ImageNet/.ipynb_checkpoints/*
 /Tuto_TransferLearning_ImageNet/data/*
